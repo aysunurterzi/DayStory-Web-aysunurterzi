@@ -4,7 +4,7 @@ Daystory is a web application designed to help users manage and visualize their 
 
 ## Pages
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/46089b55-6a0a-4777-bfd0-dda35d86d5e8" alt="Karşılama" width="200">
     <img src="https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/602f31a4-ea86-4bba-8640-ef96550a5060" alt="Kayıtol1" width="200">
     <img src="https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/4f6ce1be-691f-4a54-a1ca-eca9aa5c6f0c" alt="Kayıtol2" width="200">
