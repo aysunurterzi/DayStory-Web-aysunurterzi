@@ -36,4 +36,3 @@ Daystory is a web application designed to help users manage and visualize their 
    ```bash
    git clone https://github.com/yourusername/daystory.git
 
-
