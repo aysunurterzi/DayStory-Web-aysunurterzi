@@ -6,7 +6,7 @@ Reception page:
 
 ![Karşılama](https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/46089b55-6a0a-4777-bfd0-dda35d86d5e8)
 
-<img src="https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/46089b55-6a0a-4777-bfd0-dda35d86d5e8" alt="Karşılama" width="200">
+<img src="https://github.com/aysunurterzi/DayStory-Web-aysunurterzi/assets/80470813/46089b55-6a0a-4777-bfd0-dda35d86d5e8" alt="Karşılama" width="400">
 
 
 ## Features
