@@ -2,6 +2,10 @@
 
 Daystory is a web application designed to help users manage and visualize their daily notes and events efficiently. Built with React and Axios, the app allows users to register, log in, create daily notes, and generate AI-powered visual representations of their notes.
 
+Reception page:
+[Karşılama.pdf](https://github.com/user-attachments/files/15986120/Karsilama.pdf)
+
+
 ## Features
 
 - **User Registration and Login:** Secure user registration and authentication process to access the application.
@@ -21,4 +25,5 @@ Daystory is a web application designed to help users manage and visualize their 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/daystory.git
+
 
